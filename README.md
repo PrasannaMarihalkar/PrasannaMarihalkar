@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/prasanna-marihalkar-a4162a332"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/PrasannaCM5"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="https://leetcode.com/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Prasanna_C_Marihalkar/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="mailto:prasannacm.in@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -20,7 +20,7 @@
 - 💻 Currently building systems in **C++** and backend services in **Python**
 - 🏆 Competitive programmer on Codeforces, climbing the rating ladder
 - 🌱 Deep-diving into OS internals, networking, and high-performance systems
-- 📫 Reach me at **YOUR-EMAIL**
+- 📫 Reach me at **prasannacm.in@gmail.com**
 
 ---
 
@@ -36,12 +36,12 @@
 
 <table>
 <tr>
-<td width="50%">
+<!-- <td width="50%">
 
 **[Limit Order Book — C++](https://github.com/PrasannaMarihalkar/limit-order-book)**
 A high-performance order matching engine built from scratch, focused on deterministic low-latency order processing.
 
-</td>
+</td> -->
 <td width="50%">
 
 **[cpp-lockfree-queue](https://github.com/PrasannaMarihalkar/cpp-lockfree-queue)**
