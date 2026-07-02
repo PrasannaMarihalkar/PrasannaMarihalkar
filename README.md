@@ -40,7 +40,14 @@
 
 <table>
 <tr><td width="140"><b>DecodeLabs</b></td><td>AI / Software Engineering Intern — May 2025 – Jun 2025<br/>Built a rule-based AI chatbot, a KNN classification pipeline (~97% F1), and a TF-IDF tech stack recommender.</td></tr>
-<tr><td><b>BSERC</b></td><td>Software / AI Intern — May 2026 - July 2026<br/>[add a one-line summary of what you worked on]</td></tr>
+<tr><td><b>BSERC</b></td><td>Software / AI Intern — May 2026 - July 2026<br/>🤖 Generative Artificial Intelligence (AI)
+🔐 Cyber Security & Digital Forensics in Space
+🛸 Advanced Drone Technology (Air Taxi & Defence Drone)
+✈️ Aircraft Design Technology
+🚀 Rocketry Design Technology
+⚡ EV Technology & Charging Infrastructure
+🦾 Robotics Design Technology
+🧠 AI-Based Military Intelligence & Threat Analysis</td></tr>
 <tr><td><b>PI Labs, PESU</b></td><td>R&D Member <br/>Building Socratic Mirror: prompt architecture and conversational state management for an LLM-powered Socratic questioning tool.</td></tr>
 </table>
 
