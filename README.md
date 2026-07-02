@@ -1,98 +1,138 @@
-<h1 align="center">Hi there, I'm Prasanna 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;CS+Undergrad+%40+PES+University;Competitive+Programmer;Backend+%26+Systems+Enthusiast" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=220&section=header&text=Prasanna%20Marihalkar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Systems%20%26%20Backend&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="www.linkedin.com/in/prasanna-marihalkar-a4162a332"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/PrasannaCM5"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Prasanna_C_Marihalkar/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="mailto:prasannacm.in@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=700&lines=B.E.+Computer+Science+%40+PES+University;R%26D+Member+%40+PI+Labs%2C+PESU;Competitive+Programmer+on+Codeforces;Building+high-performance+systems+in+C%2B%2B" alt="Typing SVG" />
 
----
+<br/>
 
-### 🚀 About Me
+<a href="https://linkedin.com/in/prasanna-marihalkar-a4162a332"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<!-- <a href="https://codeforces.com/profile/PrasannaCM5"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a> -->
+<a href="https://leetcode.com/u/Prasanna_C_Marihalkar"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:prasannacm.in@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=PrasannaMarihalkar&label=Profile%20Views&color=8E2DE2&style=for-the-badge"/>
 
-- 🎓 B.E. Computer Science, PES University (2024–2028)
-- 🔬 R&D Member @ PI Labs, PESU
-- 💻 Currently building systems in **C++** and backend services in **Python**
-- 🏆 Competitive programmer on Codeforces, climbing the rating ladder
-- 🌱 Deep-diving into OS internals, networking, and high-performance systems
-- 📫 Reach me at **prasannacm.in@gmail.com**
+</div>
 
----
+<br/>
 
-### 🛠️ Tech Stack
+## 🧭 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,fastapi,postgres,linux,git,cmake,vscode" />
-</p>
+```yaml
+name: Prasanna Marihalkar
+role: B.E. Computer Science Engineering, PES University (2024 – 2028)
+lab: R&D Member @ PI Labs, PESU
+focus: [systems programming, backend engineering, competitive programming]
+currently_building: cpp-lockfree-queue — a lock-free SPSC ring buffer with benchmarks
+currently_learning: [OS internals, computer networking, distributed systems]
+fun_fact: I validate my algorithm logic by hand before I let myself write the code
+```
 
----
+<br/>
 
-### 🔥 Featured Projects
+## 🛠️ Tech Stack
 
-<table>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,fastapi,postgres,linux,git,github,cmake,vscode,bash&theme=dark" />
+
+</div>
+
+<br/>
+
+## 🚀 Featured Work
+
+<table width="100%">
 <tr>
-<!-- <td width="50%">
+<td width="50%" valign="top">
 
-**[Limit Order Book — C++](https://github.com/PrasannaMarihalkar/limit-order-book)**
-A high-performance order matching engine built from scratch, focused on deterministic low-latency order processing.
+### 🔧 [cpp-lockfree-queue](https://github.com/PrasannaMarihalkar/cpp-lockfree-queue)
+A lock-free SPSC ring buffer in C++ for high-throughput, low-latency message passing between threads — cache-line padded, benchmarked against a mutex-based baseline.
 
-</td> -->
-<td width="50%">
+`C++` `Concurrency` `Systems`
 
-**[cpp-lockfree-queue](https://github.com/PrasannaMarihalkar/cpp-lockfree-queue)**
-A lock-free SPSC ring buffer for high-throughput, low-latency message passing between threads, with full benchmarks.
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [Socratic Mirror](https://github.com/PrasannaMarihalkar/socratic-mirror)
+An LLM-powered Socratic dialogue engine for Indian students with Kannada support — FastAPI backend, Llama 3.3 70B, Supabase. Built for Bharat Academix CodeQuest Hackathon 2026.
+
+`FastAPI` `LLM` `Supabase`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[Socratic Mirror](https://github.com/PrasannaMarihalkar/socratic-mirror)**
-LLM-powered Socratic dialogue engine for Indian students (FastAPI + Llama 3.3 70B + Supabase), built for a national hackathon.
+### 📊 [Tech Stack Recommender](https://github.com/PrasannaMarihalkar/tech-stack-recommender)
+A TF-IDF based recommendation engine that suggests technology stacks from natural language project descriptions.
+
+`Python` `NLP` `ML`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[Tech Stack Recommender](https://github.com/PrasannaMarihalkar/tech-stack-recommender)**
-A TF-IDF based recommender that suggests technology stacks from project descriptions.
+### 🌸 [Iris Classification](https://github.com/PrasannaMarihalkar/iris-classification)
+A clean KNN classification pipeline built from scratch on the classic Iris dataset — end-to-end, from preprocessing to evaluation.
+
+`Python` `ML` `KNN`
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PrasannaMarihalkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasannaMarihalkar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrasannaMarihalkar&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=PrasannaMarihalkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrasannaMarihalkar&theme=tokyonight&hide_border=true" height="165"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasannaMarihalkar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrasannaMarihalkar&theme=tokyo-night&hide_border=true" height="165"/>
 
-### 🏅 Codeforces
+</div>
 
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=PrasannaCM5" />
-</p>
+<br/>
 
-<!-- If this widget doesn't render for your handle, swap in a shields.io badge instead:
-https://img.shields.io/badge/Codeforces%20Rating-XXXX-1F8ACB?style=for-the-badge -->
+## 🏆 Trophy Case
 
----
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrasannaMarihalkar&label=Profile%20Views&color=2E9EF7&style=flat" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=PrasannaMarihalkar&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
 
-<p align="center"><i>Always open to interesting problems, systems work, and a good conversation about code.</i></p>
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PrasannaMarihalkar/PrasannaMarihalkar/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+> Setup for the snake above is in `snake.yml` — it's a one-time GitHub Actions workflow, instructions below.
+
+<br/>
+
+## ⚔️ Competitive Programming
+
+<div align="center">
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=PrasannaCM5" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2E9EF7&height=120&section=footer" width="100%"/>
+
+<i>Open to interesting systems problems, backend challenges, and good conversations about code.</i>
+
+</div>
