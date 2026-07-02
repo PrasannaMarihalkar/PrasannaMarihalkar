@@ -18,7 +18,7 @@
 
 ## About Me
 
-- 🎓 B.E. Computer Science Engineering, PES University, RR Campus (2024 – 2028) ·
+- 🎓 B.Tech. Computer Science Engineering, PES University, RR Campus (2024 – 2028) ·
 - 🔬 R&D Member @ **PI Labs, PESU** — building **Socratic Mirror**, an LLM-powered reflective learning tool
 - 💼 Former AI/Software Engineering Intern @ **DecodeLabs** and **BSERC**
 - 🏆 200+ problems solved on Codeforces, national-level participant at Smart India Hackathon 2024
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,mongodb,git,linux" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,mongodb,linux,cmake,git,github,fastapi,postgres" />
 
 </div>
 
@@ -40,8 +40,16 @@
 
 <table>
 <tr><td width="140"><b>DecodeLabs</b></td><td>AI / Software Engineering Intern — May 2026 – Jun 2026<br/>Built a rule-based AI chatbot, a KNN classification pipeline (~97% F1), and a TF-IDF tech stack recommender.</td></tr>
-<tr><td><b>BSERC</b></td><td>Software / AI Intern — May 2026 - July 2026<br/>Working On AI Agents and Cyber Security</td></tr>
-<tr><td><b>PI Labs, PESU</b></td><td>R&D Member — Ongoing<br/>Building Socratic Mirror: prompt architecture and conversational state management for an LLM-powered Socratic questioning tool.</td></tr>
+<tr><td><b>BSERC</b></td><td>Software / AI Intern — May 2026 - July 2026<br/>
+🤖 Generative Artificial Intelligence (AI)
+🔐 Cyber Security & Digital Forensics in Space
+🛸 Advanced Drone Technology (Air Taxi & Defence Drone)
+✈️ Aircraft Design Technology
+🚀 Rocketry Design Technology
+⚡ EV Technology & Charging Infrastructure
+🦾 Robotics Design Technology
+🧠 AI-Based Military Intelligence & Threat Analysis</td></tr>
+<tr><td><b>PI Labs, PESU</b></td><td>R&D Member —<br/>Building Socratic Mirror: prompt architecture and conversational state management for an LLM-powered Socratic questioning tool.</td></tr>
 </table>
 
 <br/>
