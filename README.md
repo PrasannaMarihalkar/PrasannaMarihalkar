@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,mongodb,linux,cmake,git,github,fastapi,postgres" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,mongodb,git,linux" />
 
 </div>
 
@@ -39,17 +39,9 @@
 ## Experience
 
 <table>
-<tr><td width="140"><b>DecodeLabs</b></td><td>AI / Software Engineering Intern — May 2026 – Jun 2026<br/>Built a rule-based AI chatbot, a KNN classification pipeline (~97% F1), and a TF-IDF tech stack recommender.</td></tr>
-<tr><td><b>BSERC</b></td><td>Software / AI Intern — May 2026 - July 2026<br/>
-🤖 Generative Artificial Intelligence (AI)
-🔐 Cyber Security & Digital Forensics in Space
-🛸 Advanced Drone Technology (Air Taxi & Defence Drone)
-✈️ Aircraft Design Technology
-🚀 Rocketry Design Technology
-⚡ EV Technology & Charging Infrastructure
-🦾 Robotics Design Technology
-🧠 AI-Based Military Intelligence & Threat Analysis</td></tr>
-<tr><td><b>PI Labs, PESU</b></td><td>R&D Member —<br/>Building Socratic Mirror: prompt architecture and conversational state management for an LLM-powered Socratic questioning tool.</td></tr>
+<tr><td width="140"><b>DecodeLabs</b></td><td>AI / Software Engineering Intern — May 2025 – Jun 2025<br/>Built a rule-based AI chatbot, a KNN classification pipeline (~97% F1), and a TF-IDF tech stack recommender.</td></tr>
+<tr><td><b>BSERC</b></td><td>Software / AI Intern — May 2026 - July 2026<br/>[add a one-line summary of what you worked on]</td></tr>
+<tr><td><b>PI Labs, PESU</b></td><td>R&D Member <br/>Building Socratic Mirror: prompt architecture and conversational state management for an LLM-powered Socratic questioning tool.</td></tr>
 </table>
 
 <br/>
@@ -97,10 +89,11 @@ TF-IDF + cosine similarity content-based filtering engine ranking 20 career path
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PrasannaMarihalkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrasannaMarihalkar&theme=tokyonight&hide_border=true" height="165"/>
+<img src="./metrics.svg" width="100%"/>
 
 </div>
+
+> Fully self-generated via GitHub Actions — no third-party service, no downtime, updates itself daily. Setup in `metrics.yml`.
 
 <br/>
 
