@@ -2,7 +2,7 @@
 
 <img src="./banner.svg" width="100%" alt="Prasanna Marihalkar"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=4F8CFF&center=true&vCenter=true&width=650&lines=R%26D+Member+%40+PI+Labs%2C+PESU;Systems+%26+Backend+Engineering;Competitive+Programmer+on+Codeforces" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=4F8CFF&center=true&vCenter=true&width=650&lines=R%26D+Intern+%40+PI+Labs%2C+PESU;Systems+%26+Backend+Engineering;Competitive+Programmer+on+Codeforces" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -19,9 +19,10 @@
 ## About Me
 
 - 🎓 B.Tech. Computer Science Engineering, PES University, RR Campus (2024 – 2028) ·
-- 🔬 R&D Member @ **PI Labs, PESU** — building **Socratic Mirror**, an LLM-powered reflective learning tool
-- 💼 Former AI/Software Engineering Intern @ **DecodeLabs** and **BSERC**
-- 🏆 200+ problems solved on Codeforces, national-level participant at Smart India Hackathon 2024
+- 🔬 R&D Intern @ **PI Labs, PESU** — building **Socratic Mirror**, an LLM-powered reflective learning tool
+- 💼 Former AI Engineering Intern @ **DecodeLabs** 
+- 🔐 Cybersecurity and Digital Forensics Intern @ **BSERC** 
+- 🏆 250+ problems solved on Codeforces, national-level participant at Smart India Hackathon 2024
 - 🛠️ Currently building **cpp-lockfree-queue**, a lock-free SPSC ring buffer with real benchmarks
 
 <br/>
@@ -39,15 +40,10 @@
 ## Experience
 
 <table>
-<tr><td width="140"><b>DecodeLabs</b></td><td>AI / Software Engineering Intern — May 2025 – Jun 2025<br/>Built a rule-based AI chatbot, a KNN classification pipeline (~97% F1), and a TF-IDF tech stack recommender.</td></tr>
-<tr><td><b>BSERC</b></td><td>Software / AI Intern — May 2026 - July 2026<br/>🤖 Generative Artificial Intelligence (AI)
+<tr><td width="140"><b>DecodeLabs</b></td><td>AI Engineer Intern — May 2025 – Jun 2025<br/>Built a rule-based AI chatbot, a KNN classification pipeline (~97% F1), and a TF-IDF tech stack recommender.</td></tr>
+<tr><td><b>BSERC</b></td><td>Software Intern — May 2026 - July 2026<br/>🤖 Generative Artificial Intelligence (AI)
 🔐 Cyber Security & Digital Forensics in Space
-🛸 Advanced Drone Technology (Air Taxi & Defence Drone)
-✈️ Aircraft Design Technology
-🚀 Rocketry Design Technology
-⚡ EV Technology & Charging Infrastructure
-🦾 Robotics Design Technology
-🧠 AI-Based Military Intelligence & Threat Analysis</td></tr>
+</td></tr>
 <tr><td><b>PI Labs, PESU</b></td><td>R&D Member <br/>Building Socratic Mirror: prompt architecture and conversational state management for an LLM-powered Socratic questioning tool.</td></tr>
 </table>
 
